@@ -10,6 +10,7 @@ const data = {
       description: "Great for running in cool temps",
       brand: "Cramazon",
       numreviews: 11,
+      countInStock: 10,
     },
     {
       _id: "2",
@@ -21,6 +22,7 @@ const data = {
       description: "Great for all-around use",
       brand: "Under Armor",
       numreviews: 21,
+      countInStock: 20,
     },
     {
       _id: "3",
@@ -32,6 +34,7 @@ const data = {
       description: "Great for running in cool temps",
       brand: "Nike",
       numreviews: 40,
+      countInStock: 0,
     },
     {
       _id: "4",
@@ -43,6 +46,7 @@ const data = {
       description: "Great for freezing temps",
       brand: "Cramazon",
       numreviews: 166,
+      countInStock: 2,
     },
     {
       _id: "5",
@@ -54,6 +58,7 @@ const data = {
       description: "Great for running in cool temps",
       brand: "Cramazon",
       numreviews: 27,
+      countInStock: 100,
     },
     {
       _id: "6",
@@ -65,6 +70,7 @@ const data = {
       description: "Great for everything",
       brand: "Cramazon",
       numreviews: 100,
+      countInStock: 10,
     },
   ],
 };
